@@ -1,7 +1,7 @@
 # LeetCode_ProblemSoving_Solution
 I'm working Bi-monthly to resolve the Problem Solving of Leetcode. 
 
-##Prolem Solve: Jump Game II
+## Prolem Solve Name: Jump Game II
 
 You are given a 0-indexed array of integers nums of length n. You are initially positioned at nums[0].
 
@@ -25,8 +25,8 @@ Input: nums = [2,3,0,1,4]
 Output: 2
  
 
-Constraints:
+Constraints:\n
 
-1 <= nums.length <= 104
-0 <= nums[i] <= 1000
-It's guaranteed that you can reach nums[n - 1].
+1 <= nums.length <= 104\n
+0 <= nums[i] <= 1000\n
+\nIt's guaranteed that you can reach nums[n - 1].
