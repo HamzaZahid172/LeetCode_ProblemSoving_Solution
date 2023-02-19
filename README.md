@@ -16,17 +16,17 @@ Return the minimum number of jumps to reach nums[n - 1]. The test cases are gene
 Example 1:
 
 Input: nums = [2,3,1,1,4]
-Output: 2
+<br />Output: 2
 
 Explanation: The minimum number of jumps to reach the last index is 2. Jump 1 step from index 0 to 1, then 3 steps to the last index.
-Example 2:
+<br />Example 2:
 
 Input: nums = [2,3,0,1,4]
-Output: 2
+<br />Output: 2
  
 
-Constraints:\n
+Constraints:
 
-1 <= nums.length <= 104\n
-0 <= nums[i] <= 1000\n
-\nIt's guaranteed that you can reach nums[n - 1].
+1 <= nums.length <= 104<br />
+0 <= nums[i] <= 1000<br />
+<br />It's guaranteed that you can reach nums[n - 1].
