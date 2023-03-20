@@ -66,3 +66,32 @@ Constraints:
 <br />s contains only lowercase English letters.
 <br />p contains only lowercase English letters, '.', and '*'.
 <br />It is guaranteed for each appearance of the character '*', there will be a previous valid character to match.
+
+
+
+## Problem Solve Name: Hamming Distance
+
+The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
+
+Given two integers x and y, return the Hamming distance between them.
+
+ 
+
+<br />Example 1:
+
+<br />Input: x = 1, y = 4
+<br />Output: 2
+<br />Explanation:
+<br />1   (0 0 0 1)
+<br />4   (0 1 0 0)
+       ↑   ↑
+<br />The above arrows point to positions where the corresponding bits are different.
+<br />Example 2:
+
+<br />Input: x = 3, y = 1
+<br />Output: 1
+ 
+
+<br />Constraints:
+
+<br />0 <= x, y <= 231 - 1
