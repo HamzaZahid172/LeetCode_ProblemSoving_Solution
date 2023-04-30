@@ -14,4 +14,4 @@ I'm working Bi-monthly to resolve the Problem Solving of Leetcode.
 [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/927467498/)
 
 ## Problem Solve Name: Convert Binary Number in a Linked List to Integer
-[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
+[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/942053298/)
